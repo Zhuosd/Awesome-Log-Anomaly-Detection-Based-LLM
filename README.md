@@ -10,14 +10,14 @@ We will continue to update this list with the latest resources. If you find any 
 ![GitHub forks](https://img.shields.io/github/forks/mala-lab/Awesome-Log-Anomaly-Detection-Based-LLM?color=blue&label=Forks) 
 
 
-## Taxonomy of Deep Graph Anomaly Detection
+## Taxonomy of LLM-Based Log Anomaly Detection
 
 
 # Outline
 
 
 
-# Categories of Deep Graph Anomaly Detection
+# Categories of LLM-Based Log Anomaly Detection
 
 
 
